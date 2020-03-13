@@ -1,0 +1,59 @@
+Phoenix
+---
+Hot Hands - Throw a fireball that explodes after a delay or upon impact with the ground. The fire zone damages enemies, and heals you.
+Blaze - Cast out a flame wall that blocks vision and damages anyone passing through it. You can bend the wall when casting by turning while holding left click.
+Signature Ability: Curveball- Cast a curving flare that bursts into brilliant light after a brief delay, temporarily blinding all looking at it. Left click curves it left, right click curves it right.
+Ultimate Ability: Run it Back - Mark your current location. If you die during this ability’s duration, or when this ability’s duration expires, you’ll be reborn at the marked location with full health.
+
+Jett
+---
+Cloudburst - Throw out a cloud of fog that obscures vision on impact. Hold down the ability button to bend the cloud’s in-flight trajectory.
+Updraft - After a brief wind up, propel yourself upwards.
+Signature Ability: Tailwind - Immediately dash a short distance in the direction you’re moving.
+Ultimate: Blade Storm - Arm yourself with  several deadly throwing knives that deal moderate damage and kill on headshots. Scoring a kill restores all daggers. Left click throws a single dagger. Right click throws all remaining daggers in a short-ranged burst.
+
+Viper
+---
+Snakebite - Fire a projectile that explodes into a pool of damaging acid.
+Poison Cloud - Throw a gas emitter that you can reactivate to create a poisonous smoke cloud at the cost of fuel. The emitter can be picked up and thrown again after a short cooldown.
+Signature Ability: Toxic Screen - Deploy a long line of gas emitters that you can reactivate to create a tall wall of toxic gas at the cost of fuel.
+Ultimate: Viper’s Pit - Emit a massive toxic cloud in a large area that lasts as long as Viper stays inside the cloud. Enemies inside the cloud are highlighted to Viper.
+
+Sova
+---
+Shock Bolt - Fire an explosive bolt that emits a damaging pulse of static energy upon impact.
+Owl Drone - Deploy a pilotable drone that can fire a dart that will Reveal enemies who are hit.
+Signature Ability: Recon Bolt - Fire a bolt that deploys a sonar emitter. The sonar pings tag nearby enemies, causing them to be revealed. Can be destroyed.
+Ultimate: Hunter’s Fury - Fire up to three deadly energy blasts that spear across the entire map. Each hit enemy takes heavy damage and is marked.
+
+Cypher
+---
+Free Ability: Trapwire - Place a stealthed tripwire between two walls. Triggering enemies are restrained and revealed for a short time. If the trap is not destroyed, it activates to daze the trapped victim. Can be picked up.
+Cyber Cage - Toss out a remote activation trap. Reactivate to create a cage that slows enemies who pass through it. Look at a trap and press USE to detonate it, or hold ACTIVATE to detonate all.
+Signature Ability: Spycam - Place a remote camera. After placing, reactivate to view the video feed. Left click while in camera to fire a tracking dart. Recharges when picked up or killed.
+Ultimate: Neural Theft- Extract information from the corpse of an enemy, revealing the location of their living allies.
+
+Brimstone
+---
+Incindiary - Launch an incendiary grenade that deploys a damaging field of fire.
+Stim Beacon - Target a nearby location to call in a Stim Beacon, giving all players near it Rapidfire.
+Signature Ability: Sky Smoke - Use your map to call in orbital deployment smokescreens that obscure vision. Click to set the locations, and confirm to launch.
+Ultimate: Orbital Strike - Use your map to target a location, launching a devastating orbital strike that pulses for high damage over several seconds.
+
+Sage
+---
+Slow Orb - Cast out a radianite orb that breaks into a slowing field upon impact with the ground. All caught in the field are slowed, grounded, and make noise when moving.
+Barrier Orb - Conjure a large, solid wall. Right-click to rotate the wall before casting.
+Signature Ability: Healing Orb - Heal an ally or yourself to full health over a few seconds.
+Ultimate: Resurrection- Target a friendly corpse. After a short delay, revive them with full health.
+
+Omen
+---
+Paranoia - Send out an Ethereal shadow in a straight line, Nearsighting anyone it touches.
+Shadow Walk - After a delay, dematerialize and teleport a short distance.
+Signature Ability: Dark Cover - Cast out a stealthed ethereal orb that bursts into an obscuring sphere of shadow at its final location. Can be charged to increase distance.
+Ultimate: From the Shadows - Select anywhere on the map to teleport and reform. When arriving, appear as a Shade, that will go back to your original location if killed. Once the teleport is complete, become Incorporeal for a short time.
+
+
+
+
