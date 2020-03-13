@@ -1,5 +1,5 @@
 # ValorantApp
-![ValorantLogo](https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/03/03/valorant-release-date-for-pc_feature.jpg)
+![ValorantLogo](https://cdn.discordapp.com/attachments/686612902710738944/686614824872181904/IMG_20200304_211623.jpg)
 ---
 This project's purpose:
 - [ ] Learn more about microservices and how to employ the microservice architecture
